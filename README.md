@@ -12,9 +12,12 @@ This repository contains a Power BI dashboard that provides a comprehensive anal
 
 ## Datasets Used
 This project utilizes two datasets:
-1. **Credit Card Transactions Dataset** – Contains details about transaction volume, revenue, and transaction types. [`credit_card_dataset`](https://github.com/Saher-Younas/Credit-Card-Transaction-Insights-Power-BI-Dashboard/blob/main/credit_card_dataset.csv)
+1. **Credit Card Transactions Dataset** – Contains details about transaction volume, revenue, and transaction types. [`credit_card_dataset`](https://github.com/Saher-
 2. **Customer Demographics Dataset** – Includes information on customer income, job type, education level, marital status, and geographical location.
-[`customer_dataset`](https://github.com/Saher-Younas/Credit-Card-Transaction-Insights-Power-BI-Dashboard/blob/main/customer_dataset.csv)
+
+- The dataset is compressed in a `.rar` file for easier storage and download. Extract it using WinRAR, 7-Zip, or any compatible tool before use.
+- [`Dataset`](https://github.com/Saher-Younas/Credit-Card-Transaction-Insights-Power-BI-Dashboard/blob/main/Datasets.rar)
+
 
 ## Insights from the Dashboard
 ### Credit Card Transaction Report
